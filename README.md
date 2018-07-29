@@ -1,6 +1,9 @@
 前后端接口
 ========
 
+### 测试
+`https://www.apiopen.top/novelApi`
+
 ### RESTful 接口
 #### 获取全部新闻
 `GET /news`
